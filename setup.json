@@ -1,9 +1,9 @@
-{
-  "branchId": "61fb1232-ca58-4dba-aeb3-d09374ce27e1",
-  "navVersion": "16.3.14085.14238",
-  "navSolution": "W1",  
-  "projectName": "BC160",
-  "storeAllObjects": "false",
-  "objectProperties": "true",
-  "artifact": "https://bcartifacts.azureedge.net/onprem/16.3.14085.14238/w1"
+﻿{
+    "branchId":  "74743611-312b-4433-8982-0b9deb7566aa",
+    "navVersion":  "16.3.14085.14238",
+    "navSolution":  "W1",
+    "projectName":  "BC160",
+    "storeAllObjects":  "false",
+    "objectProperties":  "true",
+    "artifact":  "https://bcartifacts.azureedge.net/onprem/16.3.14085.14238/w1"
 }
