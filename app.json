@@ -1,0 +1,38 @@
+{
+  "id": "1ff58e0d-c0a6-4ad0-b656-d4c42926d7c3",
+  "name": "BC16Test",
+  "publisher": "MOD DOM",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://16.3.14085.14238.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
